@@ -6,6 +6,8 @@ public class NewFunction {
 		
 		System.out.println("New Branch new function");
 		
+		System.out.println("Pushing Dev march to Remote");
+		
 	}
 
 }
