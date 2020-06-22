@@ -14,6 +14,9 @@ public class HelloWorld {
 	System.out.println("Completed the loops");
 	System.out.println("in dev branch");
 	
+	NewFunction n = new NewFunction();
+	n.m2();
+	
 	}
 
 }
